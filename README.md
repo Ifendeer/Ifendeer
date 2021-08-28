@@ -4,14 +4,14 @@
   - Hobby-artist 
 ---
 - **Previously Worked With:** 
-  - Game Dev, OpenGl, DirectX, C++, Unreal
+  - Game Dev, OpenGl, DirectX, C++, Unreal Engine 4
 ---
 - **Experience in my sectors:**
   - *Non-professionally:*
     - C++: 7 years 
     - Opengl: 2 years
     - Directx: 2 years
-    - Unreal: 1 years
+    - UE4: 1 years
     - Game Dev: 1 years
     - Hobby-artist: 4 years
 <br>
